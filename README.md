@@ -1,1 +1,4 @@
-# Getting-Started-With-Git-And-Github-Project-Coursera
+## Coursera IBM Full stack software developer course 2, Getting started with Git and Github week 3 final project
+
+### Authors
+Ripul Handoo
